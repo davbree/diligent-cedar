@@ -1,5 +1,5 @@
 ---
-title: About U
+title: About Ua
 subtitle: zzz This is a short page about us and our work......
 img_path: images/about.jpg
 menus:
