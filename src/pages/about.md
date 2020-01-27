@@ -1,6 +1,6 @@
 ---
-title: About Us!
-subtitle: a This is a short page about us and our work......
+title: About Us
+subtitle: zzz This is a short page about us and our work......
 img_path: images/about.jpg
 menus:
   main:
