@@ -1,8 +1,7 @@
 ---
 template: page
-title: New Projet
+title: New Project
 subtitle: subtitle
-img_path: "/images/6_thumb.jpg"
-
+img_path: /images/6_thumb.jpg
 ---
 hey
