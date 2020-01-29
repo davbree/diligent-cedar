@@ -1,7 +1,7 @@
 {
     "title": "Stackbit Exto Theme",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "violet",
     "header": {
         "title": "Exto",
         "has_nav": true
@@ -10,7 +10,7 @@
         "content": "&copy; Stackbit-Exto. All rights reserved.",
         "links": [
             {
-                "text": "Made with Stackbit",
+                "text": "Made with Stackbit!!!",
                 "url": "https://www.stackbit.com",
                 "new_window": true
             }
