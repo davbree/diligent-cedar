@@ -1,6 +1,6 @@
 ---
 title: About Us?
-subtitle: neu.This is a short page about us and our work......
+subtitle: neeeew.This is a short page about us and our work......
 img_path: images/about.jpg
 menus:
   main:
