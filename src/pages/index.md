@@ -11,7 +11,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
   - type: contactblock
     template: contactblock
-    title: Contact Us
+    title: 'Contact Us:'
     section_id: contact
     component: ContactBlock
     subtitle: An optional subtitle of the section
